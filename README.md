@@ -16,7 +16,7 @@ Utilize OpenAI's GPT-3.5-turbo to provide answers based on the PDF content.
 
 
 Prerequisites --
-Python 3.6 or higher
-Flask
-PyMuPDF (fitz)
-OpenAI Python client
+Python 3.6 or higher,
+Flask,
+PyMuPDF (fitz),
+OpenAI Python client.
