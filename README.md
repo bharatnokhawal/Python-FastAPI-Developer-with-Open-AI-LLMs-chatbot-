@@ -15,7 +15,7 @@ AI-Driven Responses:
 Utilize OpenAI's GPT-3.5-turbo to provide answers based on the PDF content.
 
 
-Prerequisites 
+Prerequisites --
 Python 3.6 or higher
 Flask
 PyMuPDF (fitz)
